@@ -1,0 +1,7 @@
+#canvas {
+    border: 0px solid black;
+    background-image: url("grid.svg");
+    width: 641px;
+    height: 481px;
+    margin: 0 auto;
+}
